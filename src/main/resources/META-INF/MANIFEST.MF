@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Implementation-Title: custom_banner_test
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.mytests.springboot.banner
+Build-Jdk: 1.8.0
+Implementation-Vendor: IrsSoft, Inc.

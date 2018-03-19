@@ -1,0 +1,8 @@
+${AnsiBackground.BLACK}${AnsiColor.BRIGHT_YELLOW}=================================
+${AnsiStyle.UNDERLINE}${AnsiBackground.BLACK}${AnsiColor.BRIGHT_GREEN} This is my banner!!!
+${AnsiBackground.BLACK}${AnsiColor.BRIGHT_YELLOW} title: ${application.}
+${AnsiBackground.BLACK}${AnsiColor.BRIGHT_YELLOW} formatted version: ${application.formatted-version}
+${AnsiBackground.BLACK}${AnsiColor.BRIGHT_YELLOW} sb version: ${AnsiBackground.BLACK}${AnsiColor.CYAN}${spring-boot.version}
+${AnsiBackground.BLACK}${AnsiColor.BRIGHT_YELLOW} custom property from application.properties: ${AnsiColor.RED}${AnsiBackground.BLACK}${custom.property}
+${AnsiBackground.BLACK}${AnsiColor.BRIGHT_YELLOW} standard property from application.properties: ${AnsiColor.BRIGHT_MAGENTA}${AnsiBackground.BLACK}${spring.application.name}
+${AnsiBackground.BLACK}${AnsiColor.BRIGHT_YELLOW}==================================
